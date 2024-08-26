@@ -87,6 +87,6 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 Contact
 For any questions, suggestions, or feedback, please feel free to reach out:
 
-Name: Harsh Gakare
+Name: Harsh Gakare 
 Email: gakareharsh@gmail.com
 GitHub: @HarshGakare
