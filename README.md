@@ -5,12 +5,19 @@ Revolutionary Website is a cutting-edge web application. This project showcases 
 
 # Table of Contents
 1.Features
+
 2.Demo
+
 3.Installation
+
 4.Usage
+
 5.Technologies Used
+
 6.Project Structure
+
 7.Contributing
+
 8.Contact
 
 # Features
